@@ -1,10 +1,10 @@
-![image](https://github.com/thimeshaA/Gift-Genie/assets/101446688/4964b678-6347-4be6-950a-e9d8734841bf)# Gift Genie
+# Gift Genie
 
 Gift Genie is your ultimate companion for stress-free gift shopping. Whether it's a birthday, anniversary, or special occasion, finding the perfect gift has never been easier. With Gift Genie, you can explore a curated selection of gift ideas tailored to your recipient's interests and preferences.
 
 ## Key Features
 
-###Personalized Recommendations: Discover thoughtful gift suggestions based on your recipient's hobbies, interests, and personality.
+### Personalized Recommendations: Discover thoughtful gift suggestions based on your recipient's hobbies, interests, and personality.
 
 ### Wishlist Creation: Create and manage personalized wish lists, making it easy to keep track of gift ideas for every occasion.
 
